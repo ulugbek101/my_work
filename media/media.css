@@ -1,0 +1,292 @@
+@media(max-width:1200px) {
+    .header .header__list .header__list_link {
+        font-size: 19px;
+    }
+    .header__title {
+        font-size: 50px;
+        line-height: 40px;
+    }
+    .header__description {
+        font-size: 20px;
+        line-height: 22px;
+        margin-top: 30px;
+    }
+    .main-story {
+        background: #282929;
+        padding: 50px 0;
+    }
+    .main-story__title {
+        font-size: 26px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+    .main-story__description {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .main-slider__content_title {
+        font-size: 23px;
+        line-height: 17px;
+    }
+    .main-slider__content_description {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .works__description {
+        margin-bottom: 50px;
+    }
+    .works__list .works__list_btn {
+        font-size: 14px;
+        line-height: 10px;
+    }
+    .works-tabs__right_title {
+        font-size: 23px;
+    }
+    .works-tabs__right_description {
+        line-height: 22px;
+    }
+    .accordion .accordion-item .opportunities__btn {
+        font-size: 19px;
+    }
+    .opportunities__body {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .footer__list {
+        margin: 40px auto;
+    }
+    .footer__list__link {
+        font-size: 19px;
+        line-height: 15px;
+    }
+    .footer__content__info {
+        font-size: 19px;
+        line-height: 15px;
+    }
+}
+
+@media(max-width:992px) {
+    .header__logo {
+        font-size: 25px;
+    }
+    .header .header__list .header__list_link {
+        font-size: 18px;
+        text-align: end;
+        margin-bottom: 5px;
+        padding-right: 12px;
+    }
+    .header__title {
+        font-size: 46px;
+        line-height: 38px;
+    }
+    .header__description {
+        font-size: 19px;
+    }
+    .main-story__title {
+        font-size: 25px;
+    }
+    .main-slider__content_title {
+        font-size: 22px;
+        line-height: 16px;
+    }
+    .works-tabs__right_title {
+        font-size: 22px;
+    }
+    .works-tabs__link {
+        font-size: 14px;
+        line-height: 13px;
+    }
+    .works-tabs__img {
+        margin-bottom: 20px;
+    }
+    .footer__list__link {
+        font-size: 18px;
+    }
+    .footer__content__info {
+        font-size: 18px;
+        line-height: 15px;
+    }
+    .footer__list {
+        margin: 30px auto;
+    }.footer__list__link {
+        margin: 0px 20px;
+    }
+}
+
+@media(max-width:768px) {
+    .header__title {
+        font-size: 38px;
+        line-height: 32px;
+    }
+    .header__description {
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .main-story__title {
+        font-size: 24px;
+    }
+    .main-story__description {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+    .main-slider__content_description {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .works__list .works__list_btn {
+        padding: 12px 14px;
+    }
+    .works-tabs__right_description {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .works-containerFluid {
+        margin-top: 20px;
+    }
+    .works-tabs__right_description {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .opportunities {
+        padding-top: 50px;
+        padding-bottom: 25px;
+    }
+    .accordion .accordion-item .opportunities__btn {
+        font-size: 18px;
+    }
+    .footer__list {
+        margin: 25px auto;
+    }
+    .footer__content__info {
+        font-size: 16px;
+        line-height: 15px;
+    }
+}
+
+@media(max-width:767px) {
+    .main-slider__content_title {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media(max-width:576px) {
+    .header__logo {
+        font-size: 22px;
+    }
+    .header .header__list .header__list_link {
+        font-size: 15px;
+    }
+    .header__title {
+        font-size: 30px;
+        line-height: 24px;
+    }
+    .header__description {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .main-story {
+        background: #282929;
+        padding: 30px 0;
+    }
+    .main-story__title {
+        font-size: 20px;
+        line-height: 15px;
+        margin-bottom: 20px;
+    }
+    .main-story__description {
+        font-size: 13px;
+        line-height: 15px;
+        margin-bottom: 15px;
+    }
+    .main-slider__content_title {
+        font-size: 18px;
+        line-height: 14px;
+        display: flex;
+        justify-content: center;
+    }
+    .main-slider__content_description {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .works {
+        padding-top: 50px;
+    }
+    .works__list .works__list_btn {
+        padding: 12px 12px;
+    }
+    .opportunities__body {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .footer__list {
+        margin: 20px auto;
+    }
+    .footer__list__link {
+        font-size: 15px;
+    }
+    .footer__content__info {
+        font-size: 14px;
+        line-height: 12px;
+    }
+}
+@media(max-width:575px) {
+    .header .header__list .header__list_link {
+        font-size: 13px;
+    }
+    .header__description {
+        max-width: 70%;
+    }
+    .col-xs {
+        width: 62%;
+    }
+    .main-slider__prev {
+        display: none;
+    }
+    .main-slider__next {
+        display: none;
+    }
+    .works {
+        padding-top: 40px;
+    }
+    .works__list {
+        padding: 0;
+    }
+    .works__list .works__list_btn {
+        font-size: 10px;
+        line-height: 6px;
+    }
+    .works-tabs__img {
+        height: 220px;
+    }
+    .works-tabs__right_description {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .works-tabs__link {
+        font-size: 11px;
+        line-height: 9px;
+    }
+    .opportunities {
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+    .opportunities__body {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .accordion .accordion-item .opportunities__btn {
+        font-size: 15px;
+    }
+    .footer__list {
+        margin: 15px auto;
+    }
+    .footer__list__link {
+        font-size: 13px;
+    }
+    .footer__content__info {
+        font-size: 13px;
+        line-height: 10px;
+    }
+}
